@@ -6,3 +6,9 @@
 ターミナル上でプロジェクトディレクトリに移動し、`node web_server.js`を実行する。
 
 url: http://localhost:8080/index.html
+
+# 使い道
+* 制作中の静的サイトをスマホで確認したいとき
+* jquery.cookie.jsの動作確認したいとき
+
+
